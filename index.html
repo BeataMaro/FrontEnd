@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="pl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Helion Books List</title>
+    <link rel="shortcut icon" type="image/jpg" href="favicon.png" />
+
+    <script
+      src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js"
+      integrity="sha384-7+zCNj/IqJ95wo16oMtfsKbZ9ccEh31eOz1HGyDuCQ6wgnyJNSYdrPa03rtR1zdB"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js"
+      integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13"
+      crossorigin="anonymous"
+    ></script>
+    <link rel="stylesheet" href="./css/main.css" />
+    <script type="text/javascript" src="books.json"></script>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script type="module" src="index.js" defer></script>
+  </head>
+  <body>
+    <main>
+      <div class="container">
+        <div class="row">
+          <section>
+            <div class="input-group my-4">
+              <div class="col-lg-6">
+              <select class="sort-books form-select mb-3" name="sort-books">
+                <option value="">Sortuj</option>
+                <option value="pages-up">Od najkrótszych</option>
+                <option value="pages-down">Od najdłuższych</option>
+                <option value="established-down">Od najnowszych</option>
+                <option value="established-up">Od najstarszych</option>
+                <option value="alphabetical-az">A-Z</option>
+                <option value="alphabetical-za">Z-A</option>
+              </select>
+              </div>
+              <div class="col-lg-6">
+              <input
+                id="search"
+                type="text"
+                name="search"
+                class="search form-control mb-3"
+                placeholder="Wyszukaj..."
+              />
+              </div>
+            </div>
+          </section>
+        <row>
+          <section>
+            <article>
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">ID</th>
+                    <th scope="col">Tytuł</th>
+                    <th scope="col">Liczba stron</th>
+                    <th scope="col">Data wydania</th>
+                  </tr>
+                </thead>
+                <!-- tbody is going to fill by js function showBooks() -->
+                <tbody class="table-body"></tbody>
+              </table>
+            </article>
+          </section>
+        </row>
+      </div>
+    </main>
+  </body>
+</html>

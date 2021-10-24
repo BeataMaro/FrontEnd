@@ -1,0 +1,339 @@
+ [
+        {
+            "@attributes": {
+                "ident": "AKCIAZ"
+            },
+            "isbn": "978-83-246-1626-8",
+            "ean": "9788324616268",
+            "ident": "AKCIAZ",
+            "tytul": [
+                "Aktywna ci\u010f\u017c\u02dd\u010f\u017c\u02dda dla bystrzak\u010f\u017c\u02ddw",
+                "Fit Pregnancy for Dummies"
+            ],
+            "link": "https:\/\/dlabystrzakow.pl\/ksiazki\/aktywna-ciaza-dla-bystrzakow-catherine-cram-tere-stouffer-drenth,akciaz.htm",
+            "autor": {},
+            "tlumacz": "Anna Owsiak, Izabela Szybilska-Fiedorowicz",
+            "status": "0",
+            "marka": "5",
+            "nazadanie": "0",
+            "format": "180x235",
+            "typ": "1",
+            "oprawa": "mi\u010f\u017c\u02ddkka",
+            "wydawca": "Septem",
+            "liczbastron": "384",
+            "datawydania": "2008-05-14",
+            "online": "https:\/\/pdf.helion.pl\/akciaz\/akciaz.pdf",
+            "excerpts": {
+                "online": "https:\/\/pdf.helion.pl\/akciaz\/akciaz.pdf"
+            },
+            "okladka": "https:\/\/static01.helion.com.pl\/global\/okladki\/326x466\/akciaz.jpg",
+            "bestseller": "0",
+            "nowosc": "0",
+            "serietematyczne": {
+                "seriatematyczna": [
+                    "\u010f\u017c\u02ddycie rodzinne",
+                    "Zdrowie i uroda",
+                    "Sport"
+                ]
+            },
+            "ksiegarnie_nieinter": {
+                "waga": "0.58",
+                "status2": "4",
+                "cena_netto": "33.24",
+                "cena_brutto": "34.9",
+                "vat": "1.66",
+                "vat_procent": "5"
+            },
+            "opis": {},
+            "cenadetaliczna": "34.90",
+            "znizka": "0.00",
+            "cena": "34.90",
+            "md5": "27ade7db52de503d08892542cbefba44"
+        },
+       
+        {
+            "@attributes": {
+                "ident": "AKGIBY"
+            },
+            "isbn": "978-83-283-2524-1",
+            "ean": "9788328325241",
+            "ident": "AKGIBY",
+            "tytul": [
+                "Akordy gitarowe dla bystrzak\u010f\u017c\u02ddw",
+                "Guitar Chords for Dummies (Accords de guitare pour les Nuls)"
+            ],
+            "link": "https:\/\/dlabystrzakow.pl\/ksiazki\/akordy-gitarowe-dla-bystrzakow-antoine-polin,akgiby.htm",
+            "autor": {},
+            "tlumacz": "Krzysztof Krzy\u010f\u017c\u02ddanowski",
+            "status": "0",
+            "marka": "5",
+            "nazadanie": "0",
+            "format": "140x208",
+            "typ": "1",
+            "oprawa": "mi\u010f\u017c\u02ddkka",
+            "wydawca": "Septem",
+            "liczbastron": "376",
+            "datawydania": "2016-09-19",
+            "online": "https:\/\/pdf.helion.pl\/akgiby\/akgiby.pdf",
+            "excerpts": {
+                "online": "https:\/\/pdf.helion.pl\/akgiby\/akgiby.pdf"
+            },
+            "okladka": "https:\/\/static01.helion.com.pl\/global\/okladki\/326x466\/akgiby.jpg",
+            "okladkatyl": "https:\/\/static01.helion.com.pl\/global\/okladki-tyl\/326x466\/akgiby.jpg",
+            "bestseller": "0",
+            "nowosc": "0",
+            "powiazane": {
+                "ident_powiazany": [
+                    "ANGBYS",
+                    "BIOBY2",
+                    "BUDBY2",
+                    "FILOBY",
+                    "GOTGE2",
+                    "NIBYSZ",
+                    "PODMBY",
+                    "REIKIO",
+                    "REMIBY",
+                    "RONIBY",
+                    "ROROBY",
+                    "STABY2"
+                ]
+            },
+            "serietematyczne": {
+                "seriatematyczna": [
+                    "Muzyka",
+                    "Hobby, pasje, zwierz\u010f\u017c\u02ddta"
+                ]
+            },
+            "ksiegarnie_nieinter": {
+                "waga": "0.53",
+                "status2": "3",
+                "cena_netto": "37.14",
+                "cena_brutto": "39",
+                "vat": "1.86",
+                "vat_procent": "5"
+            },
+            "opis": {},
+            "cenadetaliczna": "39.00",
+            "znizka": "0.00",
+            "cena": "39.00",
+            "md5": "7faf1568c3c394efad742a04f965c34a"
+        },
+        {
+            "@attributes": {
+                "ident": "AKWABY"
+            },
+            "isbn": "978-83-246-2037-1",
+            "ean": "9788324620371",
+            "ident": "AKWABY",
+            "tytul": [
+                "Akwarium s\u010f\u017c\u02ddodkowodne dla bystrzak\u010f\u017c\u02ddw",
+                "Freshwater Aquariums For Dummies 2\/e"
+            ],
+            "link": "https:\/\/dlabystrzakow.pl\/ksiazki\/akwarium-slodkowodne-dla-bystrzakow-maddy-hargrove-mic-hargrove,akwaby.htm",
+            "autor": {},
+            "tlumacz": "Emilia Hahn",
+            "status": "0",
+            "marka": "5",
+            "nazadanie": "0",
+            "format": "180x235",
+            "typ": "1",
+            "oprawa": "mi\u010f\u017c\u02ddkka",
+            "wydawca": "Septem",
+            "liczbastron": "320",
+            "datawydania": "2010-08-06",
+            "online": "https:\/\/pdf.helion.pl\/akwaby\/akwaby.pdf",
+            "excerpts": {
+                "online": "https:\/\/pdf.helion.pl\/akwaby\/akwaby.pdf"
+            },
+            "okladka": "https:\/\/static01.helion.com.pl\/global\/okladki\/326x466\/akwaby.jpg",
+            "okladkatyl": "https:\/\/static01.helion.com.pl\/global\/okladki-tyl\/326x466\/akwaby.jpg",
+            "bestseller": "0",
+            "nowosc": "0",
+            "serietematyczne": {
+                "seriatematyczna": "Hobby, pasje, zwierz\u010f\u017c\u02ddta"
+            },
+            "ksiegarnie_nieinter": {
+                "waga": "0.50",
+                "status2": "4",
+                "cena_netto": "33.24",
+                "cena_brutto": "34.9",
+                "vat": "1.66",
+                "vat_procent": "5"
+            },
+            "opis": {},
+            "cenadetaliczna": "34.90",
+            "znizka": "0.00",
+            "cena": "34.90",
+            "md5": "301dff76f998519a6be63713a7347cde"
+        },
+        {
+            "@attributes": {
+                "ident": "ALGOBY"
+            },
+            "isbn": "978-83-283-6076-1",
+            "ean": "9788328360761",
+            "ident": "ALGOBY",
+            "tytul": [
+                "Algorytmy dla bystrzak\u010f\u017c\u02ddw",
+                "Algorithms For Dummies"
+            ],
+            "link": "https:\/\/dlabystrzakow.pl\/ksiazki\/algorytmy-dla-bystrzakow-john-paul-mueller-luca-massaron,algoby.htm",
+            "autor": {},
+            "tlumacz": "Rados\u010f\u017c\u02ddaw Meryk",
+            "status": "1",
+            "marka": "1",
+            "nazadanie": "0",
+            "format": "170x230",
+            "typ": "1",
+            "oprawa": "mi\u010f\u017c\u02ddkka",
+            "wydawca": "Helion",
+            "liczbastron": "424",
+            "datawydania": "2020-01-31",
+            "online": "https:\/\/pdf.helion.pl\/algoby\/algoby.pdf",
+            "excerpts": {
+                "online": "https:\/\/pdf.helion.pl\/algoby\/algoby.pdf"
+            },
+            "okladka": "https:\/\/static01.helion.com.pl\/global\/okladki\/326x466\/algoby.jpg",
+            "okladkatyl": "https:\/\/static01.helion.com.pl\/global\/okladki-tyl\/326x466\/algoby.jpg",
+            "bestseller": "0",
+            "nowosc": "0",
+            "serietematyczne": {
+                "seriatematyczna": [
+                    "Komputery i technologia",
+                    "Nauki \u010f\u017c\u02ddcis\u010f\u017c\u02dde"
+                ]
+            },
+            "ksiegarnie_nieinter": {
+                "waga": "0.60",
+                "status2": "1",
+                "cena_netto": "56.19",
+                "cena_brutto": "59",
+                "vat": "2.81",
+                "vat_procent": "5"
+            },
+            "opis": {},
+            "cenadetaliczna": "59.00",
+            "znizka": "0.00",
+            "cena": "59.00",
+            "md5": "3619e8f8f2ac3b42fa3544265e4ea63d"
+        },
+        {
+            "@attributes": {
+                "ident": "ANFIBY"
+            },
+            "isbn": "978-83-246-1904-7",
+            "ean": "9788324619047",
+            "ident": "ANFIBY",
+            "tytul": [
+                "Anatomia i fizjologia dla bystrzak\u010f\u017c\u02ddw",
+                "Anatomy and Physiology for Dummies "
+            ],
+            "link": "https:\/\/dlabystrzakow.pl\/ksiazki\/anatomia-i-fizjologia-dla-bystrzakow-donna-rae-siegfried,anfiby.htm",
+            "autor": {},
+            "tlumacz": "Cezar Matkowski",
+            "status": "0",
+            "marka": "5",
+            "nazadanie": "0",
+            "format": "180x235",
+            "typ": "1",
+            "oprawa": "mi\u010f\u017c\u02ddkka",
+            "wydawca": "Septem",
+            "liczbastron": "376",
+            "datawydania": "2009-03-18",
+            "online": "https:\/\/pdf.helion.pl\/anfiby\/anfiby.pdf",
+            "excerpts": {
+                "online": "https:\/\/pdf.helion.pl\/anfiby\/anfiby.pdf"
+            },
+            "okladka": "https:\/\/static01.helion.com.pl\/global\/okladki\/326x466\/anfiby.jpg",
+            "bestseller": "0",
+            "nowosc": "0",
+            "serietematyczne": {
+                "seriatematyczna": "Nauki przyrodnicze"
+            },
+            "ksiegarnie_nieinter": {
+                "waga": "0.60",
+                "status2": "4",
+                "cena_netto": "33.24",
+                "cena_brutto": "34.9",
+                "vat": "1.66",
+                "vat_procent": "5"
+            },
+            "opis": {},
+            "cenadetaliczna": "34.90",
+            "znizka": "0.00",
+            "cena": "34.90",
+            "md5": "b3f2679b8e80bdd4865d039ddacf82ae"
+        },
+        {
+            "@attributes": {
+                "ident": "ANGBYS"
+            },
+            "isbn": "978-83-283-2804-4",
+            "ean": "9788328328044",
+            "ident": "ANGBYS",
+            "tytul": [
+                "Angielski dla bystrzak\u010f\u017c\u02ddw",
+                "Learning English As A Foreign Language For Dummies"
+            ],
+            "link": "https:\/\/dlabystrzakow.pl\/ksiazki\/angielski-dla-bystrzakow-gavin-dudeney-nicky-hockly,angbys.htm",
+            "autor": {},
+            "tlumacz": "Katarzyna Rojek",
+            "status": "1",
+            "marka": "5",
+            "nazadanie": "0",
+            "format": "180x235",
+            "typ": "1",
+            "oprawa": "mi\u010f\u017c\u02ddkka",
+            "wydawca": "Septem",
+            "liczbastron": "325",
+            "datawydania": "2017-08-30",
+            "online": "https:\/\/pdf.helion.pl\/angbys\/angbys.pdf",
+            "excerpts": {
+                "online": [
+                    "https:\/\/pdf.helion.pl\/angbys\/angbys.mobi",
+                    "https:\/\/pdf.helion.pl\/angbys\/angbys.pdf",
+                    "https:\/\/pdf.helion.pl\/angbys\/angbys.epub"
+                ]
+            },
+            "okladka": "https:\/\/static01.helion.com.pl\/global\/okladki\/326x466\/angbys.jpg",
+            "okladkatyl": "https:\/\/static01.helion.com.pl\/global\/okladki-tyl\/326x466\/angbys.jpg",
+            "top": "5",
+            "bestseller": "1",
+            "nowosc": "0",
+            "promocja": "[-30%\\ Promocja trwa tylko przez godzin\u010f\u017c\u02dd!",
+            "powiazane": {
+                "ident_powiazany": [
+                    "EKOBY2",
+                    "FILOBY",
+                    "FOREB2",
+                    "MIKRBY",
+                    "MINDB2",
+                    "MYSLIN",
+                    "NIEB2V",
+                    "PODMBY",
+                    "RONIBY",
+                    "SOCJOB",
+                    "STABY2",
+                    "TEMUBY"
+                ]
+            },
+            "serietematyczne": {
+                "seriatematyczna": "J\u010f\u017c\u02ddzyki obce"
+            },
+            "ksiegarnie_nieinter": {
+                "waga": "0.60",
+                "status2": "1",
+                "cena_netto": "38.00",
+                "cena_brutto": "39.9",
+                "vat": "1.9",
+                "vat_procent": "5"
+            },
+            "opis": {},
+            "cenadetaliczna": "39.90",
+            "znizka": "0.00",
+            "cena": "39.90",
+            "md5": "be316f52131457ce223f9f0156e66605"
+        }
+     ]
+    
+    
